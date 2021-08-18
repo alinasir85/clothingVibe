@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clothingVibe/static/css/main.cc3c6006.chunk.css",
+    "main.js": "/clothingVibe/static/js/main.1495f8ca.chunk.js",
+    "main.js.map": "/clothingVibe/static/js/main.1495f8ca.chunk.js.map",
+    "runtime-main.js": "/clothingVibe/static/js/runtime-main.62f29b6d.js",
+    "runtime-main.js.map": "/clothingVibe/static/js/runtime-main.62f29b6d.js.map",
+    "static/js/2.44c977c9.chunk.js": "/clothingVibe/static/js/2.44c977c9.chunk.js",
+    "static/js/2.44c977c9.chunk.js.map": "/clothingVibe/static/js/2.44c977c9.chunk.js.map",
+    "index.html": "/clothingVibe/index.html",
+    "precache-manifest.9bdce70c03bded73a0642ffbba7bbe83.js": "/clothingVibe/precache-manifest.9bdce70c03bded73a0642ffbba7bbe83.js",
+    "service-worker.js": "/clothingVibe/service-worker.js",
+    "static/css/main.cc3c6006.chunk.css.map": "/clothingVibe/static/css/main.cc3c6006.chunk.css.map",
+    "static/js/2.44c977c9.chunk.js.LICENSE.txt": "/clothingVibe/static/js/2.44c977c9.chunk.js.LICENSE.txt",
+    "static/media/crown.556ed7c6.svg": "/clothingVibe/static/media/crown.556ed7c6.svg",
+    "static/media/crown.png": "/clothingVibe/static/media/crown.cf7c11da.png",
+    "static/media/shopping-bag.09e6f5e7.svg": "/clothingVibe/static/media/shopping-bag.09e6f5e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f29b6d.js",
+    "static/js/2.44c977c9.chunk.js",
+    "static/css/main.cc3c6006.chunk.css",
+    "static/js/main.1495f8ca.chunk.js"
+  ]
+}
