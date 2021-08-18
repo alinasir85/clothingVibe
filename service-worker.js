@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clothingVibe/precache-manifest.9bdce70c03bded73a0642ffbba7bbe83.js"
+  "/clothingVibe/precache-manifest.e37ac63a0320e47cf01c466b4e9502b9.js"
 );
 
 self.addEventListener('message', (event) => {

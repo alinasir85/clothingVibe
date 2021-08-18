@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d30139addcecd08ffa66cd2691b81d4",
+    "revision": "3c9b5eca0c751a5ef94c2b45d605a7e6",
     "url": "/clothingVibe/index.html"
   },
   {
-    "revision": "e0116fb5226f8e3238a0",
+    "revision": "f3bb62b6814b4c00c09e",
     "url": "/clothingVibe/static/css/main.cc3c6006.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clothingVibe/static/js/2.44c977c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0116fb5226f8e3238a0",
-    "url": "/clothingVibe/static/js/main.1495f8ca.chunk.js"
+    "revision": "f3bb62b6814b4c00c09e",
+    "url": "/clothingVibe/static/js/main.15a31a7c.chunk.js"
   },
   {
     "revision": "50b60ca227a74595f13d",
     "url": "/clothingVibe/static/js/runtime-main.62f29b6d.js"
-  },
-  {
-    "revision": "556ed7c6582ea69639fe8903fad74884",
-    "url": "/clothingVibe/static/media/crown.556ed7c6.svg"
   },
   {
     "revision": "cf7c11da0afb721295842877e1918145",
